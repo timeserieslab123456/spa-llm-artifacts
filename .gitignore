@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.venv/
+
+# Downloaded datasets and pretrained weights.
+datasets/**/*.csv
+datasets/**/*.txt
+gpt2/
+*.pt
+*.pth
+*.pkl
+
+# Generated outputs.
+checkpoints/
+logs/
+Log/
+*.log

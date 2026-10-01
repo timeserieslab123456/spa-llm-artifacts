@@ -1,0 +1,7 @@
+torch>=2.0.0
+numpy
+pandas
+scikit-learn
+transformers>=4.30.0
+einops
+tqdm
